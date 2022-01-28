@@ -12,12 +12,13 @@ This repository contains instructions for how you can obtain the telemetry and r
 
 | Area of interest | Use it for  | Take me there (use CTRL+click to open in a new tab) |
 | ------ | ------ | ------ |
-| Alerts | If something happens in your environment that you need to take action on, make the system send you an alert. | [Alerting on telemetry](samples/Alerts/README.md) |
-| Excel | Want to make (refreshable) reports in Excel with data from Azure Application Insights? | [Using Excel with telemetry](samples/Excel/README.md) |
-| HTML | Want to construct a link that runs a KQL query and shows the result in the Azure Application Insights portal? | [Embedding telemetry links in your apps](samples/HTML/README.md) |
-| Kusto Query Language (KQL) | Want to query data in Azure Application Insights with KQL (similar to SQL)? | [Querying telemetry with KQL](samples/KQL/README.md) |
-| Power Automate | Want to query Azure Application Insights data in a Power Automate flow? | [Using telemetry with Power Automate](samples/PowerAutomate/README.md) |
-| Power BI | Want to query Azure Application Insights data in a Power BI report? | [Using telemetry with Power BI](samples/PowerBI/README.md) |
+| Alerts | If something happens in your environment that you need to take action on, make the system send you an alert. | [Alerting on telemetry](samples/Alerts) |
+| Excel | Want to make (refreshable) reports in Excel with data from Azure Application Insights? | [Using Excel with telemetry](samples/Excel) |
+| HTML | Want to construct a link that runs a KQL query and shows the result in the Azure Application Insights portal? | [Embedding telemetry links in your apps](samples/HTML) |
+| Kusto Query Language (KQL) | Want to query data in Azure Application Insights with KQL (similar to SQL)? | [Querying telemetry with KQL](samples/KQL) |
+| Power Automate | Want to query Azure Application Insights data in a Power Automate flow? | [Using telemetry with Power Automate](samples/PowerAutomate) |
+| Power BI | Want to query Azure Application Insights data in a Power BI report? | [Using telemetry with Power BI](samples/PowerBI) |
+| PowerShell | Want to query Azure Application Insights data in a Power Shell script? | [Using telemetry with PowerShell](samples/Powershell) |
 
 
 
