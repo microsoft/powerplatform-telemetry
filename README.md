@@ -1,14 +1,14 @@
-# Project
+# What is telemetry?
+Microsoft Power and Dynamics 365 products continuously emits telemetry about events that happen in the customer environment.
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# What can I use telemetry for?
+Telemetry can be useful for troubleshooting an issue or to determine how often a feature is used.
 
-As the maintainer of this project, please make a few updates:
+# What resources can I find in aka.ms/bctelemetrysamples?
+This repository contains instructions for how you can obtain the telemetry and resources that help you get immediate value from the telemetry.
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+Please visit the [FAQ page](FAQ.md) for any questions on how to get started, pricing, privacy, and more.
+
 
 ## Contributing
 
