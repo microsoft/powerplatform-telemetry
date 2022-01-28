@@ -4,10 +4,23 @@ Microsoft Power and Dynamics 365 products continuously emits telemetry about eve
 # What can I use telemetry for?
 Telemetry can be useful for troubleshooting an issue or to determine how often a feature is used.
 
-# What resources can I find in aka.ms/bctelemetrysamples?
-This repository contains instructions for how you can obtain the telemetry and resources that help you get immediate value from the telemetry.
-
+# Is there a Frequently Asked Questions (FAQ)?
 Please visit the [FAQ page](FAQ.md) for any questions on how to get started, pricing, privacy, and more.
+
+# What resources can I find in this repository?
+This repository contains instructions for how you can obtain the telemetry and resources that help you get immediate value from the telemetry
+
+| Area of interest | Use it for  | Take me there (use CTRL+click to open in a new tab) |
+| ------ | ------ | ------ |
+| Alerts | If something happens in your environment that you need to take action on, make the system sends you an alert. | [Alert on telemetry](samples/Alert/README.md) |
+| Excel | Learn how you can make (refreshable) reports in Excel with data from Azure Application Insights | [Using Excel with telemetry](samples/Excel/README.md) |
+| HTML | Want to construct a link that runs a KQL query and shows the result in the Azure Application Insights portal? | [Embedding telemetry links in your apps](samples/HTML/README.md) |
+
+
+
+
+
+
 
 
 ## Contributing
