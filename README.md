@@ -12,9 +12,10 @@ This repository contains instructions for how you can obtain the telemetry and r
 
 | Area of interest | Use it for  | Take me there (use CTRL+click to open in a new tab) |
 | ------ | ------ | ------ |
-| Alerts | If something happens in your environment that you need to take action on, make the system sends you an alert. | [Alert on telemetry](samples/Alert/README.md) |
+| Alerts | If something happens in your environment that you need to take action on, make the system send you an alert. | [Alert on telemetry](samples/Alert/README.md) |
 | Excel | Learn how you can make (refreshable) reports in Excel with data from Azure Application Insights | [Using Excel with telemetry](samples/Excel/README.md) |
 | HTML | Want to construct a link that runs a KQL query and shows the result in the Azure Application Insights portal? | [Embedding telemetry links in your apps](samples/HTML/README.md) |
+| Kusto Query Language (KQL) | Query data in Application Insights with KQL (similar to SQL) | [Querying telemetry with KQL](samples/KQL/README.md) |
 
 
 
