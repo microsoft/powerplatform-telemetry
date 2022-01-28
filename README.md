@@ -18,7 +18,8 @@ This repository contains instructions for how you can obtain the telemetry and r
 | Kusto Query Language (KQL) | Want to query data in Azure Application Insights with KQL (similar to SQL)? | [Querying telemetry with KQL](samples/KQL) |
 | Power Automate | Want to query Azure Application Insights data in a Power Automate flow? | [Using telemetry with Power Automate](samples/PowerAutomate) |
 | Power BI | Want to query Azure Application Insights data in a Power BI report? | [Using telemetry with Power BI](samples/PowerBI) |
-| PowerShell | Want to query Azure Application Insights data in a Power Shell script? | [Using telemetry with PowerShell](samples/Powershell) |
+| PowerShell | Want to query Azure Application Insights data in a Powershell script? | [Using telemetry with PowerShell](samples/Powershell) |
+| Troubleshooting | Want to make interactive troubleshooting guides with Jupyter notebooks? | [Using telemetry with Jupyter notebooks](samples/TroubleshootingGuides) |
 
 
 
